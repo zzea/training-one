@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "nodemon",
-    "test": "jest --watch"
+    "test": "jest --watchAll"
   },
   "author": "",
   "license": "",
